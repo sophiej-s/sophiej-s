@@ -57,7 +57,7 @@ I currently reside in the Washington, DC area.
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiej-s&layout=compact)](https://github.com/sophiej-s/github-readme-stats)-->
 
 
-
+<!---
 ### My Recent Projects:
 <a href="https://github.com/sophiej-s/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiej-s&repo=MSThesis-I" />
@@ -66,7 +66,7 @@ I currently reside in the Washington, DC area.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiej-s&repo=EdgeProject" />
 </a>
 
-
+-->
 
 
 
