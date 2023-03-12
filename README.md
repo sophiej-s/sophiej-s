@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align=”center”>
 
-![pexels-matheus-cenali-2487443](https://user-images.githubusercontent.com/20401990/179074988-b39a699d-f177-47c9-a529-64164246e549.jpg)
+![pexels-matheus-cenali-2487443](https://user-images.githubusercontent.com/20401990/224552303-4c429ee8-aaa6-4bb8-ae68-122c351e30aa.jpg)
 
 </p>
 
@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 ### Introduction:
 
 Hello, 
-My name is Sophie Johnson-Shapoval. I am a part-time graduate computer science student at the Bowie State University located in the beautiful state of Maryland. Also I work full-time in an IT role supporting a US government agency. 
-
-My interests are in software engineering, modeling and simulation, machine learning, artificial intelligence, and data science. 
-
-I currently reside in the Washington, DC area.
+My name is Sophie Johnson-Shapoval. I am a part-time (remote/distance) graduate statistics student at the Texas AM& University. Also I work full-time in an IT role supporting a US government agency.  My interests are in software engineering, modeling and simulation, machine learning, artificial intelligence, and data science. I currently reside in the Washington, DC area.
 
 
 
@@ -98,5 +94,6 @@ Please send me a message :point_right:	 [![LinkedIn][2.2]][2].
 <!---  --->
 <!---  --->
 
+![flowers](https://user-images.githubusercontent.com/20401990/224552303-4c429ee8-aaa6-4bb8-ae68-122c351e30aa.jpg)
 
 
