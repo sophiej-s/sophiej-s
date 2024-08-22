@@ -42,10 +42,6 @@ My name is Sophie Johnson-Shapoval. I am a part-time (remote/distance) graduate 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-### My GitHub Stats:
-
-[![Sophie’s github stats](https://github-readme-stats.vercel.app/api?username=sophiej-s)](https://github.com/sophiej-s)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiej-s&layout=compact)](https://github.com/sophiej-s)
 
 
 
