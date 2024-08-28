@@ -1,4 +1,4 @@
-### Hello there! 👋 
+### Hello! 👋 
 
 <!--
 **sophiej-s/sophiej-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,16 +63,7 @@ My name is Sophie Johnson-Shapoval. I am a part-time (remote/distance) graduate 
 
 
 
-### How To Connect With Me: 
 
-Please send me a message :point_right:	 [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/sophie-j-sha
 
 
 
@@ -90,6 +81,5 @@ Please send me a message :point_right:	 [![LinkedIn][2.2]][2].
 <!---  --->
 <!---  --->
 
-![flowers](https://user-images.githubusercontent.com/20401990/224552303-4c429ee8-aaa6-4bb8-ae68-122c351e30aa.jpg)
 
 
