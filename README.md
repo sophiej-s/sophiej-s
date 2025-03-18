@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Introduction:
 
 Hello, 
-My name is Sophie Johnson-Shapoval. I am a part-time (remote/distance) graduate statistics student at the Texas AM& University. Also I work full-time in an IT role supporting a US government agency.  My interests are in software engineering, modeling and simulation, machine learning, artificial intelligence, and data science. I currently reside in the Washington, DC area.
+My name is Sophie Johnson-Shapoval. I work full-time in an IT role supporting a US government agency.  My interests are in software engineering, modeling and simulation, machine learning, artificial intelligence, and data science. I currently reside in the Washington, DC area.
 
 
 
